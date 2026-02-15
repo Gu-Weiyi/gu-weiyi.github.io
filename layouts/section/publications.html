@@ -1,0 +1,57 @@
+{{- define "main" -}}
+
+    {{ $publications := .Site.Data.selected_publications }}
+
+
+    {{/* partial "page_header.html" . */}}
+
+  <div class="universal-wrapper page-papers">
+
+    <div class="pt-3 pb-3">
+      <h1>{{ .Title }}</h1>
+    </div>
+      {{ range $index, $item := $publications }}
+
+        <div class="card media stream-item">
+          <div class="card-body">
+
+            <div class="pub-type my-0">
+                {{ $item.article_type | markdownify | emojify}}
+            </div>
+
+            <div class="pub-title exp-title my-0">
+                <a target="_blank" href="{{ $item.url }}" >{{ $item.title | markdownify | emojify}}</a>
+            </div>
+            <div class=" pub-authors">
+                {{ $item.authors_text | markdownify | emojify}} ({{$item.year }})
+            </div>
+            <div class=" pub-journal">
+                {{ $item.journal | markdownify | emojify}}
+            </div>
+
+            {{/*
+
+              {{with $item.description}}<div class="card-text">{{ . | markdownify | emojify}}</div>{{end}}
+
+              {{ with $item.links }}
+                <div class="btn-links">
+                    {{ range $idx, $link := . }}
+                      <a class="btn btn-outline-primary btn-page-header btn-sm"
+                         href="{{ $link.url }}">
+                          {{ $link.name  | markdownify | emojify }}
+                      </a>
+                    {{end}}
+                </div>
+              {{end}}
+            */}}
+
+          </div>
+        </div>
+
+      {{end}}
+
+
+
+  </div>
+
+{{- end -}}
