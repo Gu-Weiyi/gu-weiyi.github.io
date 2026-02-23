@@ -10,7 +10,9 @@ title: Awards and Honors
 
   **2025**
     
-  - China Association for Science and Technology Young Talents Lifting Project             (PhD Student Special Project, National Selection)
+  - National Natural Science Foundation of China (NSFC, PhD program)
+  
+  - China Association for Science and Technology Young Talents Lifting Project             (PhD Program, National Selection)
     
   - Tang Xiaoyan Environmental Science Innovation Scholarship                              (National Selection, First Prize)
     
