@@ -30,3 +30,8 @@ The study further evaluates optimized adaptation strategies to enhance environme
 
 
 Agricultural production in the North China Plain represents a microcosm of the multiple challenges confronting global agriculture, including freshwater scarcity, intensifying climate change, and environmental degradation. The integrated framework developed in this study, combined with multi-regional, multi-scale, and high-resolution datasets, provides a scalable approach for simulating agricultural adaptation and optimizing irrigation and fertilization management across broader regions, thereby promoting synergies between climate adaptation and environmental impact mitigation.
+
+Cite this article:
+  
+  
+  Gu, W., Ma, G., Wang, R. et al. Climate adaptation through crop migration requires a nexus perspective for environmental sustainability in the North China Plain. Nat Food 5, 569–580 (2024). [https://doi.org/10.1038/s43016-024-01008-8](https://doi.org/10.1038/s43016-024-01008-8)
