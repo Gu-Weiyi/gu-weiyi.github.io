@@ -24,7 +24,7 @@ By integrating CMIP6 climate projections, machine learning and econometric model
 The study further evaluates optimized adaptation strategies to enhance environmental sustainability alongside northward wheat migration, including drip fertigation and improved nitrogen management practices (e.g., controlled-release fertilizers, nitrification inhibitors, and urease inhibitors). Overall, drip fertigation demonstrates more substantial environmental benefits, reducing additional land use (~4.2%), water consumption (~34.0%), and energy use (~16.9%) associated with crop migration. By alleviating groundwater extraction pressures in the North China Plain and lowering nitrogen application intensity, it could also reduce greenhouse gas emissions by approximately 19.7% (Fig. 2c-f). At the global scale, optimized local adaptation strategies in the North China Plain have the potential to enhance regional self-sufficiency and reduce reliance on wheat imports, thereby avoiding approximately 0.20 Mt CO2e of carbon leakage embodied in international wheat trade.
   
   {{< image 
-  src="images/research/a1-f2.jpg" 
+  src="images/research/a1-f2.png" 
   desc="Fig. 2. Impacts of wheat crop migration, including (a) yield gains, (b) multiple environmental impacts, and (c-f) mitigation effects achieved through complementary water and fertilizer optimization strategies."  
   >}}
 
