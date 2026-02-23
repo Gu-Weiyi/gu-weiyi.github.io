@@ -9,7 +9,7 @@ title: News
     
     {{< image
     src="images/research/a4-f1.jpg"
-    desc="Fig. 1. Graphic Abstract."
+    desc=""
     >}}
   
   
