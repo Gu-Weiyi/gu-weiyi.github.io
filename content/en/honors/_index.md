@@ -41,7 +41,7 @@ title: Awards and Honors
 
   **2022**
     
-  - Outstanding Master’s Thesis in Jiangsu Province, China
+  - Outstanding Master’s Thesis in Jiangsu Province, China (Supervisor: Prof. Beibei Liu)
 
   - Qian Yi Environmental Award (National Selection, Second Prize)
 
