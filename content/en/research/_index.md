@@ -1,14 +1,14 @@
 ---
 title: Research
   
-subtitle: Advancing sustainable adaptation in climate-sensitive agricultural and water systems
+subtitle:
 
 banner_image: images/research/b1.png
 
 
 research_desc:
-  title: Our Research
-  desc: "Our researchers come from diverse fields to study new approaches to global hunger and environmental degradation through an inter-disciplinary research portfolio that spans economics, policy and the physical sciences. FSE's current research topics include:"
+  title: Research Overview
+  desc: "My research focuses on evaluating climate impacts on the water-food nexus system and designing cost-effective adaptation strategies to build climate-resilient systems. With comprehensive cross-disciplinary training, I am committed to fostering synergies between climate change adaptation and environmental impacts mitigation, ultimately promoting sustainable and inclusive development for all."
 
 
  
