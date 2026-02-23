@@ -5,7 +5,12 @@ title: News
 
   ###
 
-- **2025-09-10**, Our paper was accepted by CHI2024(CCF-A)!
+- **2025-09-10**, Our paper was [accepted](https://www.baidu.com) by CHI2024(CCF-A)!
+    
+    {{< image
+    src="images/research/a4-f1.jpg"
+    desc="Fig. 1. Graphic Abstract."
+    >}}
   
   
 

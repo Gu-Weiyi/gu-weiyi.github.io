@@ -158,6 +158,15 @@ strong {
 // 手机
 @media (max-width: 780px) {
 
+
+  #navbar-main .main-menu-item ul li {
+    .nav-link, .nav-link.active {
+      color: $text-primary-color !important;
+    }
+  }
+
+
+
   .wg-about {
     // h1 {
     //  text-align: center;
