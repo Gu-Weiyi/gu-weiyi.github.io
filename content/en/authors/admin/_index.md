@@ -5,7 +5,7 @@ education:
   courses:
   - course: Ph.D., Environmental Management
     institution:   Peking University, Beijing, China
-    year: 2022 -    
+    year: 2022 - 2026    
     img: images/i-pku.png
     details: 
     
