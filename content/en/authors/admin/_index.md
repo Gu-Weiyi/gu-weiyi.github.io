@@ -16,7 +16,7 @@ education:
     img: images/i-nju.png
     details:
     
-  - course: B.E., Environmental Planning and Management
+  - course: B.S., Environmental Planning and Management
     institution: Nanjing University, Jiangsu, China
     year: 2015 - 2019 
     img: images/i-nju.png
