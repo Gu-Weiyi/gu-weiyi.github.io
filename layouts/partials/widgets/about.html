@@ -133,7 +133,8 @@
           {{ range .courses }}
           <li>
             {{/*<i class="fa-li fas fa-graduation-cap"></i>*/}}
-            <img class="edu-img" src="{{ .img }}" style="width:1.3rem;" />
+            {{/*<img class="edu-img" src="{{ .img }}" style="width:1.3rem;" />*/}}
+            <img class="edu-img {{ .img_class }}" src="{{ .img }}"  />
             <div class="description">
               <p class="course">{{ .course }}</p>
               <p class="institution">{{ with .year }}{{ . }}{{ end }}</p>

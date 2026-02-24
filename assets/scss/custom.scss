@@ -10,9 +10,9 @@ $body-text-color: #403f3f;
 
 @font-face {
   font-family: 'ss';
-  src:  url(../fonts/sourcesanspro-regular-webfont.woff) format('woff'),
-        url(../fonts/sourcesanspro-bold-webfont.woff) format('woff');
-  font-weight: bold;
+  src:  url(../fonts/sourcesanspro-regular-webfont.woff) format('woff');
+  //      url(../fonts/sourcesanspro-bold-webfont.woff) format('woff');
+  //font-weight: bold;
   font-style: normal;
 }
 
@@ -26,8 +26,8 @@ body {
 
 
 strong {
-  font-weight: bold;
-  color: #000000;
+  //font-weight: bold;
+  //color: #000000;
 }
 
 .navbar  {
@@ -64,6 +64,14 @@ strong {
   }
 }
 
+.ul-edu {
+  .edu-img {
+    width: 1.3rem;
+  }
+  .pku-icon {
+    width: 1.6rem !important;
+  }
+}
 
 
 .experience-icon-image {
